@@ -13,8 +13,8 @@
 				"MaxFaceCount": 3,
 				"FaceboxAdjustType": 2,
 				"EnableMouthMask": false,
-				"EnableMouthRobost": true,
-				"EnableEyeRobost": true,
+				"EnableMouthRobost": false,
+				"EnableEyeRobost": false,
 				"EnableForehead": false,
 				"EnableFaceParsing": false,
 				"EnableFace3D": false,
@@ -22,7 +22,7 @@
 				"ModeThread": 1,
 				"EnableGender": true,
 				"EnableAgeDivide": false,
-				"EnableAge": true
+				"EnableAge": false
 			},
 			"XReality": {
 				"Strategy": "Std",
